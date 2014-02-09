@@ -61,12 +61,6 @@
     },
     {
         "remote":       "aospal",
-        "repository":   "kernel_asus_deb",
-        "target_path":  "kernel/asus/deb",
-        "revision":     "kitkat-mr1"
-    },
-    {
-        "remote":       "aospal",
         "repository":   "android_device_asus_deb",
         "target_path":  "device/asus/deb",
         "revision":     "kitkat"
