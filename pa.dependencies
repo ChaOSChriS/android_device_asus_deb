@@ -1,7 +1,7 @@
 [
     {
         "remote": "aospal",
-        "repository": "platform/hardware/qcom/power",
+        "repository": "platform_hardware_qcom_power",
         "target_path": "hardware/qcom/power",
         "revision": "kitkat"
     },
